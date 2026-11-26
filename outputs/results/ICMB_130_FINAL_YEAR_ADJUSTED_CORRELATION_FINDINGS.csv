@@ -1,0 +1,18 @@
+analysis_type,variable,sample_size,partial_spearman_rho,p_value,fdr_adjusted_p_value,significant_after_fdr,interpretation
+Theme vs inflation-adjusted gross,Courts And Legal Proceedings,130,-0.0181097556751446,0.8545128597283801,0.9899896163625024,False,Not statistically significant after FDR correction
+Theme vs inflation-adjusted gross,Education And Academic Institutions,130,0.1175682295308421,0.2323049995055715,0.6969149985167147,False,Not statistically significant after FDR correction
+Theme vs inflation-adjusted gross,Family And Parent Child Relationships,130,0.0012392455587341,0.9899896163625026,0.9899896163625024,False,Not statistically significant after FDR correction
+Theme vs inflation-adjusted gross,Healthcare And Medicine,130,0.1449479692962237,0.1401323352036075,0.5605293408144301,False,Not statistically significant after FDR correction
+Theme vs inflation-adjusted gross,Love And Romantic Relationships,130,0.1833047983079345,0.0612448983851791,0.3674693903110751,False,Not statistically significant after FDR correction
+Theme vs inflation-adjusted gross,Marriage And Weddings,130,-0.1864438880940283,0.0568651782874663,0.3674693903110751,False,Not statistically significant after FDR correction
+Theme vs inflation-adjusted gross,Money Wealth And Economic Transactions,130,-0.0790310000861794,0.4229074624542158,0.7249842213500843,False,Not statistically significant after FDR correction
+Theme vs inflation-adjusted gross,National Security And Terrorism,130,-0.0023767432259223,0.980802461518263,0.9899896163625024,False,Not statistically significant after FDR correction
+Theme vs inflation-adjusted gross,Police And Law Enforcement,130,-0.0079486249799437,0.9358591246408934,0.9899896163625024,False,Not statistically significant after FDR correction
+Theme vs inflation-adjusted gross,Politics Governance And Corruption,130,-0.0942179965566469,0.3390625907150271,0.7249842213500843,False,Not statistically significant after FDR correction
+Theme vs inflation-adjusted gross,Religion And Devotional Beliefs,130,0.0793512685196663,0.4210244828217854,0.7249842213500843,False,Not statistically significant after FDR correction
+Theme vs inflation-adjusted gross,Sports And Competition,130,-0.044103336760446,0.6550682531441843,0.9826023797162764,False,Not statistically significant after FDR correction
+Sentiment vs inflation-adjusted gross,Positive sentiment share,130,-0.2276255972885053,0.0195281560531749,0.0325469267552916,True,Statistically significant after FDR correction
+Sentiment vs inflation-adjusted gross,Negative sentiment share,130,0.2306123825194451,0.0179434811578475,0.0325469267552916,True,Statistically significant after FDR correction
+Sentiment vs inflation-adjusted gross,Neutral sentiment share,130,-0.0453321069729553,0.6460965990537669,0.6460965990537669,False,Not statistically significant after FDR correction
+Sentiment vs inflation-adjusted gross,Classifiable comment share,130,0.2345459037739412,0.0160267100148799,0.0325469267552916,True,Statistically significant after FDR correction
+Sentiment vs inflation-adjusted gross,Uncertain comment share,130,-0.1941877060980639,0.0471499942012343,0.0589374927515429,False,Not statistically significant after FDR correction
